@@ -2,6 +2,8 @@
 Pre-Build Wheel for ComfyUI with Python 3.12.14 for Qwen 3.8
 # Pre-built High-Performance llama-cpp-python Wheel (Vision & CUDA 13.2)
 
+For v0.0.1 you absolutely need: https://developer.nvidia.com/cuda-13-2-0-download-archive
+
 Build on: Intel i9-13900k, Geforce 4090RTX no AVX512
 
 This repository provides a custom, pre-built Windows x64 binary (`.whl`) for **llama-cpp-python** utilizing the brand-new **llama.cpp b11448 (0.6.0 Core)** engine. 
