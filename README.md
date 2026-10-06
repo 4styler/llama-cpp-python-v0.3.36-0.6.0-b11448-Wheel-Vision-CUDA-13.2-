@@ -1,6 +1,5 @@
 # llama-cpp-python-v0.3.36-0.6.0-b11448-Wheel-Vision-CUDA-13.2-
 Pre-Build Wheel for ComfyUI with Python 3.12.14 for Qwen 3.8
-# Pre-built High-Performance llama-cpp-python Wheel (Vision & CUDA 13.2)
 
 For v0.0.1 you absolutely need: https://developer.nvidia.com/cuda-13-2-0-download-archive
 
@@ -25,7 +24,7 @@ To use this wheel seamlessly, your system should match the following stack:
 * **Operating System:** Windows 10 / 11 (x64)
 * **Python Version:** Python 3.12 (e.g., as used in modern ComfyUI or standalone setups)
 * **NVIDIA Driver:** A modern GPU driver supporting CUDA 13.2 runtimes
-* **Python 3.12.14
+* **Python 3.12.14**
 
 ## 📦 Installation Guide
 
