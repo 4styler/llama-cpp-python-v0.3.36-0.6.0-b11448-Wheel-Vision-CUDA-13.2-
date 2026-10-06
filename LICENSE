@@ -19,3 +19,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+=============================================================================
+NVIDIA CUDA COMPONENT NOTICE
+This software distribution contains unmodified binary files (DLLs) from the 
+NVIDIA CUDA Toolkit (specifically cuBLAS libraries), which are redistributed 
+in accordance with Attachment A ("Redistributable Software") of the official 
+NVIDIA CUDA Toolkit End User License Agreement (EULA). 
+All copyrights and trademarks belong to NVIDIA Corporation.
+=============================================================================
