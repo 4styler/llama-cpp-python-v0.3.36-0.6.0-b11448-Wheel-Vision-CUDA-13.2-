@@ -70,3 +70,13 @@ pip wheel . --wheel-dir=./dist --no-deps --no-cache-dir
 ## 📄 License & Acknowledgments
 This binary is distributed under the **MIT License**. 
 Special thanks to the authors of [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) and the core development team at [llama.cpp](https://github.com/ggml-org/llama.cpp) for their incredible work.
+
+
+## 🔍 Common Search Queries & Troubleshooting (SEO Reference)
+If you encountered any of the following errors in your ComfyUI or standalone Python environment under Windows, this pre-built binary is designed to solve them instantly:
+* `AttributeError: function 'llava_validate_embed_size' not found` inside `llava_cpp.py`
+* `FileNotFoundError: [WinError 3] The system cannot find the path specified... CUDA_PATH bin`
+* `ValueError: Failed to create llama_context` or `OSError: ERROR_MOD_NOT_FOUND`
+* How to use Qwen3-VL, Qwen-2.5-VL, or Gemma 3 Vision in ComfyUI with llama-cpp-python
+* Pre-compiled llama-cpp-python Windows wheel for CUDA 13.2 and Python 3.12 standalone
+* Missing legacy `llava.dll` fixed via the new multimodal `mtmd.dll` engine wrapper update
