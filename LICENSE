@@ -1,5 +1,7 @@
 MIT License
 
+Portions Copyright (c) 2023-2026 abetlen (llama-cpp-python)
+Portions Copyright (c) 2023-2026 Georgi Gerganov (llama.cpp)
 Copyright (c) 2026 4styler
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -23,8 +25,14 @@ SOFTWARE.
 =============================================================================
 NVIDIA CUDA COMPONENT NOTICE
 This software distribution contains unmodified binary files (DLLs) from the 
-NVIDIA CUDA Toolkit (specifically cuBLAS libraries), which are redistributed 
-in accordance with Attachment A ("Redistributable Software") of the official 
-NVIDIA CUDA Toolkit End User License Agreement (EULA). 
+NVIDIA CUDA Toolkit (specifically cuBLAS and CUDA Runtime libraries), which 
+are redistributed in accordance with Attachment A ("Redistributable Software") 
+of the official NVIDIA CUDA Toolkit End User License Agreement (EULA). 
 All copyrights and trademarks belong to NVIDIA Corporation.
 =============================================================================
+
+NOTE: If there are any inaccuracies or unintended infringement issues within 
+this license configuration, please open an issue or reach out directly. 
+Any necessary corrections will be applied immediately. There is absolutely no 
+malicious intent behind this distribution; any compliance error is entirely 
+accidental and will be resolved upon notification.
